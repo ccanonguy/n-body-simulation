@@ -1,1 +1,1 @@
-# n-body-simulation
+# N Body simulation
